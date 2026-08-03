@@ -1,4 +1,5 @@
 Chrishandra Lewich — ITAI 1371 Machine Learning Portfolio
+
 Welcome to my Machine Learning course portfolio for ITAI 1371. This repository collects all of my labs, assignments, and project work completed throughout the semester. My goal was to keep everything organized, easy to follow, and beginner‑friendly while showing my progress as I learned new tools and concepts in AI and machine learning.
 
 About This Portfolio
@@ -65,6 +66,3 @@ Show my understanding of machine learning fundamentals
 Provide clean, organized documentation
 
 Serve as a personal learning archive I can build on in future classes
-
-Thank You for Visiting
-Feel free to explore the labs and assignments. Everything is written in a clear, friendly style so anyone — even beginners — can follow along.
