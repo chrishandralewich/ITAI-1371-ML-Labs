@@ -1,4 +1,4 @@
-# 🌼 L02 — Tools of the Trade
+#  L02 — Tools of the Trade
 ### *Chrishandra Lewich — ITAI 1371*
 
 ##  Overview  
